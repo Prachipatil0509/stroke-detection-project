@@ -96,7 +96,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-Ishwar Jadhav
+Prachi Patil
 MCA Student | AI & ML Enthusiast
 
 ---
